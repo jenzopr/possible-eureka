@@ -7,7 +7,7 @@ parser.add_argument('--jens', action = 'store_true')
 
 args = parser.parse_args()
 
-print("Hello, Loosolab!")
+print("Hello, Loosolab and students and Rene!")
 
-if(args.jens):
-    print("Hello, Jens!")
+if(args.mario):
+    print("Hello, Mario!")
